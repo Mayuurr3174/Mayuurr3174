@@ -1,4 +1,4 @@
-# Hi, I'm Mayur Yadav 👋
+# Hi, I'm Mayur 👋
 
 ### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python | Pune, India
 
