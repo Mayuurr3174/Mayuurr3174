@@ -31,8 +31,6 @@
 | Project | Description | Tools |
 |---|---|---|
 | ☕ [Coffee Shop Sales Dashboard](#) | Analyzed retail sales data to uncover peak hours, top products & revenue trends | Excel, Pivot Tables, Power Query |
-| 📊 [Power BI Retail Dashboard](#) | Executive-level dashboard with KPIs and cleaned retail dataset | Power BI, DAX |
-| 🌾 [Smart Farm Hub](#) | IoT + AI platform for real-time crop monitoring and irrigation scheduling | Python, AI/ML, Arduino |
 
 ---
 
