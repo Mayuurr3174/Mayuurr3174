@@ -31,7 +31,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | ☕ [Coffee Shop Sales Dashboard](https://github.com/Mayuurr3174/Coffee_Shop_Sales) | Analyzed retail sales data to uncover peak hours, top products & revenue trends | Excel, Pivot Tables, Power Query |
-| ☕ [FNP_Sales_Dashboard](https://github.com/Mayuurr3174/FNP_Sales_Dashboard) | Analyzed retail sales data to uncover peak hours, top products & revenue trends | Excel, Pivot Tables, Power Query |
+|  [🌸 Ferns and Petals (FNP) Sales Analysis Dashboard](https://github.com/Mayuurr3174/FNP_Sales_Dashboard) | Analyzed retail sales data to uncover peak hours, top products & revenue trends | Excel, Pivot Tables, Power Query |
 
 ---
 
